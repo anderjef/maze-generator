@@ -1,8 +1,8 @@
-# Maze Generator
+# Maze Generator License
 
 ## Copyright
 
-(c) 2025 Jeffrey Andersen
+Copyright (c) 2025 Jeffrey Andersen
 
 ## Warranty
 
