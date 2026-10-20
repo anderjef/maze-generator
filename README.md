@@ -7,15 +7,15 @@ Start date: 2020-10-28
 
 0%-difficulty:
 
-![Sample 0%-difficulty maze](Picture1.png)
+![Sample 0%-difficulty maze](sample-0-percent-difficulty-maze.png)
 
 50%-difficulty:
 
-![Sample 50%-difficulty maze](Picture2.png)
+![Sample 50%-difficulty maze](sample-50-percent-difficulty-maze.png)
 
 75%-difficulty:
 
-![Sample 75%-difficulty maze](Picture3.png)
+![Sample 75%-difficulty maze](sample-75-percent-difficulty-maze.png)
 
 ## Dependencies
 
